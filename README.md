@@ -6,11 +6,11 @@
 
 - heres what im learning right now: **C, ASM, Rust and Ruby**
 
-- im looking to collaborate on **nothing, really**
+- im looking to collaborate on **nothing lol**
 
 - and i would like to help with **nothing aswell**, i have no plans for helping or contributing to anything
 
-- **you could ask me about anything, really**
+- **you could ask me about anything**
 
 - you could reach me via matrix and email: 
 **@zen2arc:painfulcolour.dev**, **linuxzen@atomicmail.io**
