@@ -1,6 +1,4 @@
-# yo wassup, im zen2arc
-
-### so uh about me
+# about me
 
 - working on **a UNIX-like kernel**
 
