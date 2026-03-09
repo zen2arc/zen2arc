@@ -1,6 +1,6 @@
 # about me
 
-- working on **a UNIX-like kernel**
+- working on **a UNIX-like OS**
 
 - heres what im learning right now: **C, ASM, Rust and Ruby**
 
