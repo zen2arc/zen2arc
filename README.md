@@ -1,11 +1,11 @@
 # hey, im zen
 
-> building a unix-like OS from scratch, one line per eternity.
+> building an x86_64 kernel from scratch.
 
 ---
 
 ### what i'm up to
-- **currently building** — a unix-like operating system and kernel
+- **currently building** — an x86_64 kernel compatible (hopefully) with linux syscalls
 - **currently learning** — `C`, `ASM`, `Rust`, and `Ruby`
 - **open to collabs?** — i am. finally.
 - **looking to contribute?** — also nope. i've got my hands full.
