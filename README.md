@@ -6,7 +6,7 @@
 
 ### what i'm up to
 - **currently building** — an x86_64 kernel compatible (hopefully) with linux syscalls
-- **currently learning** — `C`, `ASM`, `Rust`, and `Ruby`
+- **currently learning** — `ASM` and `Ruby`
 - **open to collabs?** — i am. finally.
 - **looking to contribute?** — also nope. i've got my hands full.
 - **you can ask me about** — literally anything
