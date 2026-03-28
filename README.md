@@ -7,8 +7,8 @@
 ### what i'm up to
 - **currently building** — an x86_64 kernel compatible (hopefully) with linux syscalls
 - **currently learning** — `ASM` and `Ruby`
-- **open to collabs?** — i am. finally.
-- **looking to contribute?** — also nope. i've got my hands full.
+- **open to collabs?** — yea, surely
+- **looking to contribute?** — maybe, just maybe
 - **you can ask me about** — literally anything
 
 ---
