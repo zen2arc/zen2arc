@@ -1,11 +1,11 @@
 # hey, im zen
 
-> building an x86_64 kernel from scratch.
+> a sentient creature in this world.
 
 ---
 
 ### what i'm up to
-- **currently building** — an x86_64 kernel compatible (hopefully) with linux syscalls
+- **currently building** — nothing
 - **currently learning** — `ASM` and `Ruby`
 - **open to collabs?** — yea, surely
 - **looking to contribute?** — maybe, just maybe
