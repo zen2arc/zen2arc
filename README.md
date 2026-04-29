@@ -7,9 +7,9 @@
 ### what i'm up to
 - **currently building** — nothing
 - **currently learning** — `ASM` and `Ruby`
-- **open to collabs?** — yea, surely
-- **looking to contribute?** — maybe, just maybe
-- **you can ask me about** — literally anything
+- **open to collabs?** — nope, i am tired of development
+- **looking to contribute?** — same thing
+- **you can ask me about** — there is no fixed answer for this.
 
 ---
 
