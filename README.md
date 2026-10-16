@@ -1,21 +1,21 @@
-# wah bah brap
+# zen2arc
 
-> a sentient creature in this world.
+> West Russia, UTC+3
 
 ---
 
 ### what i'm up to
-- **currently building** — nothing
-- **currently learning** — `ASM` and `Ruby`
-- **open to collabs?** — nope, i am tired of development
-- **looking to contribute?** — same thing
-- **you can ask me about** — there is no fixed answer for this.
+- experimenting with technology, obviously
+- phone modification
+- sleeping
+- being a lazy folk
 
 ---
 
 ### reach me
 - matrix: **@zen2arc:painfulcolour.dev**
 - email: **linuxzen@atomicmail.io**
+- website: zen2arc.neocities.org **(own domain soon)**
 
 ---
 
